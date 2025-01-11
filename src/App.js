@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import LoginPage from './components/Login/LoginPage';
 import Dashboard from './components/Dashboard/Dashboard';
 import Clientes from './components/Clientes/Clientes';
-import Navbar from './components/Navbar/Navbar';
 import ProtectedRoute from './components/ProtectedRoute';
 import Layout from "./components/Layout/Layout";
 
