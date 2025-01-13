@@ -69,8 +69,19 @@ Imagen completa subida en i.postimg.cc [Diagrama UML](https://i.postimg.cc/wv7zs
 
 # Produccion:
 
-- https://relaxed-cascaron-ec2b28.netlify.app       <-- usar esta url productiva
-- https://adminclientes-front.onrender.com        <-- 2da alternativa pero no recomendada porque render no tiene compatibilidad con react
+### Repositorios públicos:
+* https://github.com/copo017/adminClientes_backend
+* https://github.com/copo017/adminClientes_front
+
+### Urls productivas para interactuar con la aplicación:
+* https://relaxed-cascaron-ec2b28.netlify.app       <-- usar esta url productiva
+* https://adminclientes-front.onrender.com        <-- 2da alternativa pero no recomendada porque render no tiene compatibilidad con react
+
+### Swagger:
+* https://app.swaggerhub.com/apis/SEBASTIANORELLANA017/public_api_clientes_clima/v3
+
+### Base de datos:
+* Se adjunta un archivo del archivo de la base de datos con todos los script documentados en la raiz del proyecto llamado 'administracion_clientes_fixed.sql'.
 
 ## Interfaz de login
 

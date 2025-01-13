@@ -21,6 +21,10 @@ const Navbar = () => {
         <li>
           <Link to="/clientes" className={styles.navLink}>Clientes</Link>
         </li>
+        <li>
+          <Link to="https://app.swaggerhub.com/apis/SEBASTIANORELLANA017/public_api_clientes_clima/v3" className={styles.navLink} target="_blank" rel="noopener noreferrer">SwaggerHub</Link>
+        </li>
+        <li>|</li>
         <li className={styles.userMenu}>
           <span className={styles.username}>{username}</span>
           <button onClick={handleLogout} className={styles.logoutButton}>Logout</button>

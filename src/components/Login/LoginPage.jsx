@@ -50,7 +50,7 @@ const LoginPage = () => {
                     <input
                         type="text"
                         id="username"
-                        placeholder="youremail@gmail.com"
+                        placeholder="username"
                         value={username}
                         onChange={(e) => setUsername(e.target.value)}
                         required
